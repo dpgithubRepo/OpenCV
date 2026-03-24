@@ -54,6 +54,7 @@ while True:
         )
         print("SMS sent:", message.sid)
         last_sent_time = current_time
+        person_detected = False
 
     cv.imshow("YOLO Detection", frame)
 
