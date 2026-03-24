@@ -36,7 +36,6 @@ Alert Logic (Cooldown)
 Twilio API → SMS Notification
 
 
-![SMS](sms.jpeg)
 
 ---
 
@@ -44,8 +43,11 @@ Twilio API → SMS Notification
 
 > Add your demo video or GIF below
 
-![Demo](demo.gif)
+![Demo](images/demo.gif)
 
+
+
+![SMS](images/sms.jpeg)
 ---
 
 ## 📁 Project Structure
